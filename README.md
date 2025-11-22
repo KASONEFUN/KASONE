@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-YLDHIT-blue?logo=google-chrome)](https://yldhit.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-YLDHIT-blue?logo=twitter)](https://x.com/YLDHITAPP)
 
+```
+6mM4CzvVWPEryg41MjQYiGCah6yCzCZEaX9J4dxspump
+```
+
 
 ## Introduction
 
